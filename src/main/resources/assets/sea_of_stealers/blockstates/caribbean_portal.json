@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "sea_of_stealers:block/caribbean_portal_ew"
+    },
+    "axis=x": {
+      "model": "sea_of_stealers:block/caribbean_portal_ns"
+    }
+  }
+}

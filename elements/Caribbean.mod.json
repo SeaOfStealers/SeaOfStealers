@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.LOG"
+    },
+    "portalParticles": {
+      "value": "WATER_SPLASH"
+    },
+    "portalLuminance": 0.04,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Black Powder",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "black_powder",
+    "portalTexture": "portalframe",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "ocean"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -13421569,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Caribbean",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caribbean"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.sea_of_stealers.caribbean": "Black Powder"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "sea_of_stealers",
+    "modName": "Sea Of Stealers",
+    "version": "1.0.0",
+    "author": "javio, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.seaofstealers",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
